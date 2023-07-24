@@ -1,0 +1,62 @@
+h2{
+    display: block;
+    margin: 5%;
+    text-align: center;
+}
+#qn{
+    text-align: right;
+    margin-right: 15%;
+}
+div{
+    display: inline;
+    align-items: center;
+}
+label{
+    display: inline;
+    margin: 3%;
+    ;
+}
+#ops{
+    display: block;
+    margin-left: 35%;
+}
+#ops2{
+    display: block;
+    margin-left: 15%;
+}
+#btns
+{
+    display: flex;
+    margin: 5%;
+}
+#s{
+    background-color:rgb(240, 71, 186);
+    margin:10%;
+    width:10%;
+    position: absolute;
+    margin-left: 60%;
+    text-align: center;
+    padding: 10px;
+}
+#skip{
+    background-color:rgb(233, 161, 79);
+    margin:10%;
+    width:10%;
+    position: absolute;
+    margin-left: 40%;
+    text-align: center;
+    padding: 10px;
+}
+#p{
+    background-color:rgb(80, 186, 166);
+    margin:10%;
+    margin-left: 20%;
+    position: absolute;
+    width:10%;
+    text-align: center;
+    padding: 10px;
+}
+textarea{
+    width: 50%;
+    margin-bottom: 2%;
+}

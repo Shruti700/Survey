@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    display: block;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+p{
+    margin-left: 40%;
+}
+#wlcm{
+    font-size: xx-large;
+}
+#btn{
+    background-color: rgb(220, 114, 218);
+    margin-top: 10%;
+    margin-left: 47%;
+    text-align: center;
+    padding: 10px;
+}
