@@ -267,7 +267,7 @@ const Survey = () => {
           {currentQuestion > 1 && (
             <button id="p"onClick={handlePrevious}>Previous</button>
           )}
-          {currentQuestion==5 &&(
+          {currentQuestion===5 &&(
             <button id="s" onClick={handleSubmit} disabled={!confirma}>Submit</button>
           )}
           </div>
